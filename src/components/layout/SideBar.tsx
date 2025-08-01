@@ -8,7 +8,6 @@ const SideBar = () => {
                 <li className="uk-width h-11 uk-text-default bg-black rounded-lg">
                     <a href="#" className="uk-height-1-1 !px-4 !text-white" >Home</a>
                 </li>
-                
             </ul>
             <ul className="uk-nav uk-navbar-left !gap-2 !mt-10">
                 <li className="size-11 uk-text-default bg-black rounded-lg uk-flex uk-flex-center">
